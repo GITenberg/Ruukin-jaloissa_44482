@@ -1,0 +1,28 @@
+_repo: Ruukin-jaloissa_44482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mäkelä, August Bernhard
+    aliases:
+    - Mäkelä, A. B.
+    - Makela, A. B.
+    birthdate: 1863
+    gutenberg_agent_id: '42783'
+    url: http://www.gutenberg.org/2009/agents/42783
+description: ''
+gutenberg_issued: '2013-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44482'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PH'
+title: Ruukin jaloissa
+url: http://www.gutenberg.org/ebooks/44482
